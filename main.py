@@ -5,7 +5,9 @@ from csv import writer
 from zipfile import ZipFile
 import os
 
+#Script to loop through a zip folder, it reads and writes CSV files and combine them.
 
+#Function to read and write files to a Zipfolder
 def zipfile_list():
     z_read = zipfile.ZipFile("zipfile.zip", "r")
     z_write = zipfile.ZipFile("zipfile.zip", "a")
