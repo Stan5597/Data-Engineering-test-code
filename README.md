@@ -5,3 +5,10 @@ The task was to write a Pythpon script that traverses through the csv file in a 
 
 My script, succesfully travers through the zip folder and read the files.
 I could not add them together.
+
+
+Resources
+https://realpython.com/python-zipfile/#:~:text=Python%27s%20zipfile%20is%20a%20standard,archiving%20and%20compressing%20digital%20data.
+https://stackoverflow.com/questions/904041/reading-a-utf8-csv-file-with-python
+https://www.delftstack.com/howto/python/python-codecs-open/
+https://docs.python.org/3/library/csv.html
