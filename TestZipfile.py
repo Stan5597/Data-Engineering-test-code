@@ -12,9 +12,9 @@ from zipfile import ZipFile
 
 import os
 
+#Script test case to test function in the main
 
-
-
+#Class to test the Ziplist function in the main
 class TestZipList(unittest.TestCase):
 
     def test_zip_list(self):
